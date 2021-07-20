@@ -1,0 +1,52 @@
+Type	Name	Users	Request Count	Failure Count	Average Response Time	80%
+find	              id next	10	4	0	45	61
+find	              id password	10	4	0	61	71
+find	Find the ... button	10	50	0	42	57
+find	Find the batch name text box	10	29	0	1223	1300
+find	Find the create batch button	10	29	0	1613	1700
+find	Find the save button	10	50	0	34	41
+find	Load Apps Page	10	25	0	2000	2100
+find	Load Batch Reports Page	10	30	0	1574	1600
+find	Load Batches Page	10	21	0	2426	2500
+find	Load Instruments Page	10	29	0	2035	2200
+find	Load Login Page	10	29	25	13993	15000
+find	Load Tenant List Page	10	4	0	3899	7400
+find	Load Users Page	10	26	0	2287	2400
+find	Load a Batch Page	10	21	0	1389	1500
+find	Load the Creat Batch Page	10	29	0	802	1100
+find	Reload Batches Page after Creating	10	29	0	56	54
+find	Reload Batches Page after Saving	10	21	0	44	74
+find	              id next	20	8	0	54	79.3
+find	              id password	20	8	0	73	92.3
+find	Find the ... button	20	100	0	51	74.1
+find	Find the batch name text box	20	58	0	1467	1690
+find	Find the create batch button	20	58	0	1935	2210
+find	Find the save button	20	100	0	41	53.3
+find	Load Apps Page	20	50	0	2400	2730
+find	Load Batch Reports Page	20	60	0	1889	2080
+find	Load Batches Page	20	42	0	2911	3250
+find	Load Instruments Page	20	58	0	2442	2860
+find	Load Login Page	20	58	25	16792	19500
+find	Load Tenant List Page	20	8	0	4679	9620
+find	Load Users Page	20	52	0	2745	3120
+find	Load a Batch Page	20	42	0	1667	1950
+find	Load the Creat Batch Page	20	58	0	963	1430
+find	Reload Batches Page after Creating	20	58	0	67	70.2
+find	Reload Batches Page after Saving	20	42	0	53	96.2
+find		90	16	0	70	95.16
+find	              id password	90	16	0	95	110.76
+find	Find the ... button	90	200	0	66	88.92
+find	Find the batch name text box	90	116	0	1907	2028
+find	Find the create batch button	90	116	0	2516	2652
+find	Find the save button	90	200	0	53	63.96
+find	Load Apps Page	90	100	0	3120	3276
+find	Load Batch Reports Page	90	120	0	2456	2496
+find	Load Batches Page	90	84	0	3785	3900
+find	Load Instruments Page	90	116	0	3174	3432
+find	Load Login Page	90	116	25	21829	23400
+find	Load Tenant List Page	90	16	0	6082	11544
+find	Load Users Page	90	104	0	3568	3744
+find	Load a Batch Page	90	84	0	2167	2340
+find	Load the Creat Batch Page	90	116	0	1252	1716
+find	Reload Batches Page after Creating	90	116	0	87	84.24
+find	Reload Batches Page after Saving	90	84	0	69	115.44
